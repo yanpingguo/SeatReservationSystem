@@ -38,8 +38,13 @@ A basic Seat Reservation System built with C# Windows Forms App.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+### Why MIT License?
+
 I chose the MIT License because it is loose and suitable for open-source projects, and users can freely use and modify it
 
 ## Acknowledgments
 
-- Created as part of Conestoga College's Programming Concepts course.
+-Developed for the INFO2300: Programming Concepts course at Conestoga College.
+
+-Created as part of Assignment 3: Seat Reservation System Project.
