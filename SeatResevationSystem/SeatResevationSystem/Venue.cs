@@ -16,12 +16,12 @@ using System.Windows.Forms;
 
 namespace SeatResevationSystem
 {
-    public partial class Venue : Form
+    public partial class SeatReservationSystem : Form
     {
         string row;
         int column =-1;
         VenueBook book = new VenueBook();
-        public Venue()
+        public SeatReservationSystem()
         {
             InitializeComponent();
             // adding items to listboxs

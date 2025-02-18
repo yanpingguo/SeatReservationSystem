@@ -16,7 +16,7 @@ namespace SeatResevationSystem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Venue());
+            Application.Run(new SeatReservationSystem());
         }
     }
 }
